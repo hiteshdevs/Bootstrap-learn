@@ -1,0 +1,30 @@
+.container{
+    place-items: center;
+}
+.container .row {
+    place-items: center;
+}
+
+.hi-1{
+    min-height: 100px;
+}
+.hi-2{
+    min-height: 100px;
+}
+.hi-3{
+
+    min-height: 100px;
+}
+.hi-4{
+
+    min-height: 100px;
+}
+
+.img-icon{
+    margin-top: 10px;
+    height: 90px;
+}
+
+.logo{
+    height: 60px;
+}
